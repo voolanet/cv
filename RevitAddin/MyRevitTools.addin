@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>MyRevitTools</Name>
+    <Assembly>MyRevitTools\MyRevitTools.dll</Assembly>
+    <AddInId>8F3B2C4E-6A1D-4E7B-9C2F-5D8A1B3E7F60</AddInId>
+    <FullClassName>MyRevitTools.App</FullClassName>
+    <VendorId>MYTL</VendorId>
+    <VendorDescription>My Revit Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
